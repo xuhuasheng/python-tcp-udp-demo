@@ -1,3 +1,12 @@
+"""
+Description  : 
+Version      : 1.0.0
+Author       : Xu Huasheng
+Date         : 2022-01-13 14:24:25
+LastEditTime : 2022-05-18 15:42:27
+LastEditors  : Xu Huasheng
+Copyright (c) 2022 AIRCAS. All rights reserved.
+"""
 '''
 Description  : 
 Version      : 1.0.0
@@ -7,7 +16,7 @@ LastEditTime : 2022-01-13 15:37:45
 LastEditors  : Xu Huasheng
 Copyright (c) 2022 AIRCAS. All rights reserved.
 '''
-import socket
+import socket 
 BUFSIZE = 1024
 IP_PORT = ('127.0.0.1', 8080)
 
